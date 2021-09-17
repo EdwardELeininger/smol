@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import * as R3F from '@react-three/fiber';
 
 ReactDOM.render(
   <React.StrictMode>
